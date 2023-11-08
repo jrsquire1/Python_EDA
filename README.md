@@ -7,7 +7,7 @@ The decision to use auto EDA depends on:
 - expertise of the user
 
 **Auto EDA** tools offer a quick and efficient way to get a broad overview of the data.
-**Manual EDA** allows for more nuanced and detailed analysis.
+<br> **Manual EDA** allows for more nuanced and detailed analysis.
 
 Packages include:
 - YData Profiling, https://pypi.org/project/ydata-profiling/
