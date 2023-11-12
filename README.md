@@ -1,5 +1,8 @@
-# Auto EDA
-This is a collection of auto EDA libraries in Python and how to execute them along with their strengths and weaknesses.
+# Python EDA
+This is a collection of python scripts exploring the basics of exploratory data analysis (EDA) with python along with ways to enhance efficiencies in python EDA, such as using Auto EDA libraries.
+
+### Auto EDA with Python
+Under the AutoEDA script is a collection of auto EDA libraries in Python and how to execute them along with their strengths and weaknesses.
 
 The decision to use auto EDA depends on:
 - specific needs of the project
