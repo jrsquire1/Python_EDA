@@ -31,3 +31,15 @@ Packages include:
 - D-Tale, https://pypi.org/project/dtale/
 - AutoViz, https://pypi.org/project/autoviz/
 
+### Python Basic Stats Tests
+This script examines basic statistical test using the Titanic and Iris datasets.
+It covers how to choose when to use them based on data type, distribution, and population size.
+Basic tests include:
+- Chi-Square
+- t-Test
+- ANOVA
+- Kruskal-Wallis
+- Pearson Correlation
+- Linear Regression
+- Logistic Regression
+
