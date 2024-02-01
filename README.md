@@ -43,3 +43,5 @@ Basic tests include:
 - Linear Regression
 - Logistic Regression
 
+### Quick Dataframe Summaries in Pandas
+This is a collection of methods and attributes in Pandas that allow you to gain a quick understanding of the shape, data, and general diversity of a dataframe using pandas.
